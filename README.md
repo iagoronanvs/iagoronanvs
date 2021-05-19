@@ -2,7 +2,7 @@
 
 ## Hi there 👋 Welcome to my GitHub! I'm Iago Santos, full stack developer
 
-[![Linkedin: iagosantos](https://img.shields.io/badge/-iago-santos?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-santos-714a30188/)](https://www.linkedin.com/in/iago-santos-714a30188/)
+[![Linkedin: iagosantos](https://img.shields.io/badge/-iago-santos?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/iago-santos-714a30188/)](https://www.linkedin.com/in/iago-santos-714a30188/)
 ![](https://visitor-badge.glitch.me/badge?page_id=iagoronanvs.iagoronanvs)
 
 ### aboutMe.js
